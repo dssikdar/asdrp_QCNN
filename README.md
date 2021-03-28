@@ -1,6 +1,9 @@
 Welcome to the ASDRP Quantum Machine Learning Repository 
+
 Created by: Diptanshu Sikdar
+
 Current Advisor: Dr. Larry McMahan
+
 Current researchers: Diptanshu Sikdar, Risab Sankar, Modakar Kurma, Namya Asrani, Ananya Balaji, Arunnabha Yadavalli, Jagganath Prabhakaran
 
 Navigation Guide: 
